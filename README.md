@@ -13,8 +13,7 @@
 ## 👌Welcome to check out my product: [Product](https://cp.giting.net/)  
 
 ## 😊Thank you for coming to see me! ! !  
-
-![logo](/images/reonra-logo.png)  <center>
+<center>
 </td></tr><table>
 </font>
 
