@@ -6,7 +6,7 @@
  
 ### 🔭 I am currently trying to learn front-end html, css, js,ts, vue. . . . . .  
 
-### ✔ My website is [Giting](https://www.giting.net) and [Reonra](https://www.reonra.com)  
+### ✔ My website is [Giting](https://www.giting.net) 、 [Reonra](https://www.reonra.com) and [Jesune](https://www.jesune.com)   
 
 ### ❤ I like it here, I like it here together  
 
