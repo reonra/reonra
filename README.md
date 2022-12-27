@@ -4,7 +4,7 @@
 
 ### 👋 Hello and welcome to my  [GitHub](https://github.com/reonra?tab=repositories) Repository👉
  
-### 🔭 I am currently trying to learn front-end html, css, js, vue. . . . . .  
+### 🔭 I am currently trying to learn front-end html, css, js,ts, vue. . . . . .  
 
 ### ✔ My website is [Giting](https://www.giting.net) and [Reonra](https://www.reonra.com)  
 
